@@ -46,3 +46,11 @@
   <a href="https://lookerstudio.google.com/reporting/7189bc3a-2d1a-4915-8011-08cbf65969a5"> LINK to Dashboard </a>
   ✌️
 </p>
+
+<h2> Reference </h2>
+<p>
+  <ul>
+    <li> <a href="https://github.com/fonylew/simple-cloud-functions-to-bigquery"> https://github.com/fonylew/simple-cloud-functions-to-bigquery </a> </li>
+    <li> <a href="https://github.com/bitkub/bitkub-official-api-docs"> https://github.com/bitkub/bitkub-official-api-docs </a> </li>
+  </ul>
+</p>
