@@ -1,6 +1,6 @@
 <h1> DataPipeline_doge-thb </h1> 
 <p align="center">
-  <img src="./pics/doge_00.png" width="1000"> <br>
+  <img src="./pics/overview.png" width="1000"> <br>
   data pipeline overview
 </p>
 
